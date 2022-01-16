@@ -62,7 +62,7 @@ How many times you want the reverter to run. By default, the reverter will get 5
 
 ### cutoffTime
 
-This is the time at which you want the reverter to **stop**. I put this in place because an abuser may not have been an abuser the entire time that they've been in the group; they could've had some non-abusive actions that we want to avoid reverting. This time follows a very specific format that I will detail below. **Please note that all times follow UTC. Please convert accordingly.**
+This is the time at which you want the reverter to **stop**. Any actions made by a user *before* this time will not be reverted. I put this in place because an abuser may not have been an abuser the entire time that they've been in the group; they could've had some non-abusive actions that we want to avoid reverting. This time follows a very specific format that I will detail below. **Please note that all times follow UTC. Please convert accordingly.**
 
 Format: `YYYY-MM-DDTHH:mm:SS.sssZ`
 
