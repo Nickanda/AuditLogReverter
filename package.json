@@ -1,0 +1,22 @@
+{
+  "name": "audit-log-reverter",
+  "version": "1.0.0",
+  "description": "Quick script that reverts Roblox group audit logs based on the settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickanda/AuditLogReverter.git"
+  },
+  "author": "NicholasY4815",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickanda/AuditLogReverter/issues"
+  },
+  "homepage": "https://github.com/Nickanda/AuditLogReverter#readme",
+  "dependencies": {
+    "bloxy": "^5.7.3"
+  }
+}
