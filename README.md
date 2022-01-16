@@ -2,7 +2,7 @@
 Quick script that reverts Roblox group audit logs based on the settings.
 
 # Installation
-To begin, clone the respository onto your computer. Using a code editor, download the bloxy NPM package by running `npm i --legcacy-peer-deps`.
+To begin, clone the respository onto your computer. Using a code editor, download the bloxy NPM package by running `npm i --legacy-peer-deps`.
 
 **(the following instructions are completely optional, but will aid in the autocomplete)**
 
