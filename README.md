@@ -38,7 +38,7 @@ Save the file and the autocomplete should be complete!
 
 # Usage
 
-In the main folder, create a new file `settings.json`. Copy and paste anything in the `settings.json.example` file into the `settings.json` file.
+In the main folder, create a new file `settings.json`. Copy and paste anything in the `settings.json.example` file into the `settings.json` file. Once you have all of the settings set up, all you have to do is simpy run `node .` and the script should run!
 
 ## Settings explained
 
