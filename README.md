@@ -44,7 +44,9 @@ In the main folder, create a new file `settings.json`. Copy and paste anything i
 
 ### cookie
 
-This is your Roblox cookie. To get this, open up your browser and go to https://roblox.com/. Right click the website and click on Inspect. Something should pop up on the right side of the screen. If you don't see an Application button on the top row of the right side of your screen, open up the dropdown menu on the top row and click on Application. Under the Cookies button in Storage, open up the cookie that has https://roblox.com/ in its name. Once you click on this, your cookie will be stored in `.ROBLOSECURITY` and it should start with something like: `_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_`.
+This is your Roblox cookie. **For the purposes of security, it is best to use an alternate account or an account that does not have anything valuable. Rank this account to the lowest permission so that in the event that this account is breached, you do not risk as much as you would if you used your main account.** For more information on protecting your account, visit this DevForum article: https://devforum.roblox.com/t/how-to-protect-your-roblox-account-advanced-guide/1228329
+
+To get this cookie, open up your browser and go to https://roblox.com/. Right click the website and click on Inspect. Something should pop up on the right side of the screen. If you don't see an Application button on the top row of the right side of your screen, open up the dropdown menu on the top row and click on Application. Under the Cookies button in Storage, open up the cookie that has https://roblox.com/ in its name. Once you click on this, your cookie will be stored in `.ROBLOSECURITY` and it should start with something like: `_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_`.
 
 **IMPORTANT: KEEP THIS COOKIE ABSOLUTELY _SECRET_ AND DO NOT SHARE WITH ANYONE ELSE UNLESS YOU WANT YOUR ACCOUNT BREACHED**
 
